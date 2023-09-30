@@ -1,4 +1,4 @@
-# puzzlegame 
+# puzzlegame 拼图小游戏
 基于JFrame用java写的一个拼图小游戏
 第一次用git上传文件，将文件放于master分支中，带来不便，望海涵
 1.建立了页面的登陆操作
